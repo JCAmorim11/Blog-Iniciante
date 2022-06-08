@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "autor": "red",
+      "mensagem": "Postagem número um do Imperium"
+    },
+    {
+      "id": 2,
+      "autor": "anonimo",
+      "mensagem": "Este blog é bem cool e anonimo"
+    },
+    {
+      "id": 3,
+      "autor": "Vladimir",
+      "mensagem": "Primeira postagem feita por mim, Vladimir"
+    },
+    {
+      "id": 4,
+      "autor": "Miura",
+      "mensagem": "Berserk é legal e metodo POST tambem"
+    },
+    {
+      "id": 5,
+      "autor": "Eremita",
+      "mensagem": "Ande bastante por ai"
+    }
+  ]
+}
